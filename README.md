@@ -1,6 +1,6 @@
 <div align="left">
 
-𓏲 ࣪˖♡𓂃 🧑🏾‍💻
+<span style="font-size: 48px;">𓏲 ࣪˖♡𓂃 🧑🏾‍💻</span>
 
 ![Profile views](https://komarev.com/ghpvc/?username=adamressom&label=profile%20views&color=0e75b6&style=flat)
 
