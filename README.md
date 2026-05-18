@@ -6,7 +6,7 @@
 
 </div>
 
-hey, i'm Adam Ressom.
+hey, i'm [Adam Ressom](https://adamressom.dev).
 
 i'm a Computer Science student at the University of Michigan, interested in software engineering, AI tools, and data projects.
 
