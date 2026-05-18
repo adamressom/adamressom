@@ -14,43 +14,26 @@
 
 </div>
 
-👋
+hey, i'm Adam Ressom.
 
-hey, i'm [Adam Ressom](https://adamressom.dev/).
+I'm a Computer Science student at the University of Michigan, interested in software engineering, AI tools, and data projects.
 
-cs @ michigan.
+I previously worked on software, data, and AI projects at SEO Tech, Georgetown, and OmicsCraft.
 
-i help deploy ai tools, full-stack apps, and data projects that make annoying tasks easier and feel cool.
+Currently working on:
+GmailAI - AI inbox organizer for email summaries, urgency scoring, and priority labels.
+Personal site - a place for projects, notes, and things I’m learning.
+Random pull requests - small fixes when something annoys me.
 
-currently working on GmailAI, updating personal site, random pull requests, and small projects that help me learn faster.
+Studying:
+CPU/GPU architecture, cloud deployment, system design, and AI agents.
 
-previously worked on software, data, and ai projects @ SEO Tech, Georgetown, and OmicsCraft.
+Just finished:
+A personal site refresh.
 
-
-small facts about me:
-
-- i’m probably overthinking a small design choice
-- i think good projects should solve annoying problems
-- i’m still learning how to make things simple
-- taking a walk to debug my life
-
-  
-currently working/studying on:
-
-- CPU/GPU architecture
-- AI agents and workflow automation
-- cloud deployment
-- full-stack apps with cleaner UX
-- system design
-
-just finished:
-
-- GmailAI, an AI inbox organizer for email summaries, urgency scoring, and priority labels
-- a personal site refresh
-
-🧠 i’m trying to get better at explaining technical ideas simply
-🚶 i take walks when I need to clear my head
-🌱 i’m still figuring things out, but I like the process
+🧠 I’m trying to explain technical ideas more simply.
+🚶 I take walks when I need to clear my head.
+🌱 I’m still figuring things out, but I like the process.
 
 <!--
 **adamressom/adamressom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
