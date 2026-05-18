@@ -31,9 +31,9 @@ CPU/GPU architecture, cloud deployment, system design, and AI agents.
 Just finished:
 A personal site refresh.
 
-🧠 I’m trying to explain technical ideas more simply.
-🚶 I take walks when I need to clear my head.
-🌱 I’m still figuring things out, but I like the process.
+🧠 I’m trying to explain technical ideas more simply <br>
+🚶 I take walks when I need to clear my head <br>
+🌱 I’m still figuring things out, but I like the process
 
 <!--
 **adamressom/adamressom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
