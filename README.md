@@ -12,7 +12,7 @@ i'm a Computer Science student at the University of Michigan, interested in soft
 
 i previously worked on software and AI projects at **SEO Tech**, **Georgetown**, and **OmicsCraft**.
 
-i'm currently working on:
+i'm currently working on:  <br>
 [GmailAI](https://github.com/adamressom/GmailAI/tree/main) - AI inbox organizer for email summaries, urgency scoring, and priority labels.  <br>
 [personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.  <br>
 random pull requests - small fixes when something annoys me.
