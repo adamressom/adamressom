@@ -1,10 +1,11 @@
 <div align="left">
 
 ```text
-   ┌─ adamressom
-   │ cs @ michigan
-   │ building things that save time
-   └─ ai, software, data
+     .      *       ˚
+  ｡ﾟ･　　ﾟ･｡　　ﾟ･｡
+     ₊˚⊹  ✦  ⊹˚₊
+  𓂃  ♡   ✧   ⋆  𓂃
+      ˚        .
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=adamressom&label=profile%20views&color=0e75b6&style=flat)
@@ -47,9 +48,9 @@ just finished:
 - GmailAI, an AI inbox organizer for email summaries, urgency scoring, and priority labels
 - a personal site refresh
 
-🧠 i’m trying to get better at explaining technical ideas simply.
-🚶 i take walks when I need to clear my head.
-🌱 i’m still figuring things out, but I like the process.
+🧠 i’m trying to get better at explaining technical ideas simply
+🚶 i take walks when I need to clear my head
+🌱 i’m still figuring things out, but I like the process
 
 <!--
 **adamressom/adamressom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
