@@ -36,9 +36,9 @@ a personal site refresh.
 
 <div align="center">
 
-```text
+
 ˚₊‧꒰ა  build quietly  •  learn loudly  •  ship often  ໒꒱ ‧₊˚
-```
+
 
 </div>
 
