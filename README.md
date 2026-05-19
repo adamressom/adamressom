@@ -36,12 +36,13 @@ a personal site refresh.
 
 <div align="center">
 
-
-˚₊‧꒰ა  build quietly  •  learn loudly  •  ship often  ໒꒱ ‧₊˚
-
+```text
+        ˚　　　　✦　　　　.
+   𓂃　　　☁︎　　　⌘　　　☁︎　　　𓂃
+        .　　　　˚　　　　✦
+```
 
 </div>
-
 <!--
 **adamressom/adamressom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
