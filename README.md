@@ -1,7 +1,13 @@
 <div align="left">
-# 𓏲⋆｡˚⚙︎𓂃 🧍🏾‍♂️
+
+# 𓏲 ࣪˖♡𓂃 🧑🏾‍💻
+
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=adamressom&label=profile%20views&color=0e75b6&style=flat)
+
+![GitHub stars](https://img.shields.io/github/stars/adamressom?label=total%20stars&style=flat&logo=github&color=111111&labelColor=555555)
+
 </div>
 
 hey, i'm [Adam Ressom](https://adamressom.dev).
