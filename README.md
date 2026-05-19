@@ -36,11 +36,10 @@ a personal site refresh.
 
 <div align="center">
 
-```text
         ˚　　　　✦　　　　.
    𓂃　　　☁︎　　　⌘　　　☁︎　　　𓂃
         .　　　　˚　　　　✦
-```
+
 
 </div>
 <!--
