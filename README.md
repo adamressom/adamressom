@@ -1,9 +1,6 @@
 <div align="left">
-
-# 𓏲⋆｡˚⚙︎𓂃 🧍🏾‍♂️
-
+#𓏲⋆｡˚⚙︎𓂃 🧍🏾‍♂️
 ![Profile views](https://komarev.com/ghpvc/?username=adamressom&label=profile%20views&color=0e75b6&style=flat)
-
 </div>
 
 hey, i'm [Adam Ressom](https://adamressom.dev).
