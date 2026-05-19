@@ -32,6 +32,16 @@ a personal site refresh.
 🚶 i take walks when I need to clear my head <br>
 🌱 i’m still figuring things out, but I like the process
 
+<br>
+
+<div align="center">
+
+```text
+˚₊‧꒰ა  build quietly  •  learn loudly  •  ship often  ໒꒱ ‧₊˚
+```
+
+</div>
+
 <!--
 **adamressom/adamressom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
