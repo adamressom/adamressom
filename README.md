@@ -18,7 +18,10 @@ i'm currently working on:  <br>
 random pull requests - small fixes when something annoys me.
 
 i’m currently learning:  <br>
-CPU/GPU architecture, cloud deployment, system design, and AI agents.
+CPU/GPU architecture <br>
+cloud deployment <br>
+system design <br>
+AI agents <br>
 
 just finished:  <br>
 a personal site refresh.
