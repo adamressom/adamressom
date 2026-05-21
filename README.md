@@ -1,6 +1,6 @@
 <div align="left">
   
-# 𓏲 ࣪˖♡𓂃 🧑🏾‍💻
+## 𓏲 ࣪˖♡𓂃 🧑🏾‍💻
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=adamressom&label=profile%20views&color=0e75b6&style=flat)
@@ -15,7 +15,7 @@ i'm a Computer Science student at the University of Michigan, interested in soft
 i previously worked on software and AI projects at **SEO Tech**, **Georgetown**, and **OmicsCraft**.
 
 i'm currently working on:  <br>
-[GmailAI](https://github.com/adamressom/GmailAI/tree/main) - AI inbox organizer for email summaries, urgency scoring, and priority labels.  <br>
+[real estate website template](https://github.com/adamressom/GmailAI/tree/main) <br>
 [personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.  <br>
 random pull requests - small fixes when something annoys me.
 
@@ -26,7 +26,7 @@ system design <br>
 AI agents <br>
 
 just finished:  <br>
-a personal site refresh.
+[GmailAI](https://github.com/adamressom/GmailAI/tree/main) - AI inbox organizer for email summaries, urgency scoring, and priority labels.  <br>
 
 🧠 i’m trying to explain technical ideas more simply <br>
 🚶 i take walks when I need to clear my head <br>
