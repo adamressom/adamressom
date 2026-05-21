@@ -15,7 +15,6 @@ i'm a Computer Science student at the University of Michigan, interested in soft
 i previously worked on software and AI projects at **SEO Tech**, **Georgetown**, and **OmicsCraft**.
 
 i'm currently working on:  <br>
-[real estate website template](https://github.com/adamressom/GmailAI/tree/main) <br>
 [personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.  <br>
 random pull requests - small fixes when something annoys me.
 
@@ -26,6 +25,7 @@ system design <br>
 AI agents <br>
 
 just finished:  <br>
+[________Properties](https://github.com/adamressom/________Properties) - real estate starter template with listings, auth, and admin lead management. <br>
 [GmailAI](https://github.com/adamressom/GmailAI/tree/main) - AI inbox organizer for email summaries, urgency scoring, and priority labels.  <br>
 
 🧠 i’m trying to explain technical ideas more simply <br>
@@ -41,17 +41,3 @@ just finished:  <br>
 </pre>
 
 </div>
-<!--
-**adamressom/adamressom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
