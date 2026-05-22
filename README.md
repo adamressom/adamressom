@@ -16,7 +16,7 @@ i previously worked on software and AI projects at **SEO Tech**, **Georgetown**,
 
 i'm currently working on:  <br>
 [personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.  <br>
-random pull requests - small fixes when something annoys me.
+random pull requests - small fixes across open-source repos.
 
 i’m currently learning:  <br>
 CPU/GPU architecture <br>
