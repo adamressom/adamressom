@@ -12,7 +12,7 @@ hey, i'm [Adam Ressom](https://adamressom.dev).
 
 i'm a Computer Science student at the University of Michigan, interested in software engineering, AI tools, and data projects.
 
-i previously worked on software and AI projects at **SEO Tech**, **Georgetown**, and **OmicsCraft**.
+i previously worked on software and AI projects at **SEO Tech**, **OmicsCraft**(AI-powered start up), **Georgetown**(RA).
 
 i'm currently working on:  <br>
 [personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.  <br>
