@@ -19,8 +19,10 @@ i previously worked on software and ai projects at **SEO Tech**, **OmicsCraft** 
 
 🧠 i’m currently learning:
 
-**systems architecture** - cpu/gpu architecture and system design.  
-**cloud & automation** - cloud deployment and autonomous ai agents.
+-CPU/GPU architecture <br>
+-cloud deployment <br>
+-system design <br>
+-ai agents <br>
 
 ⚡ just shipped:
 
