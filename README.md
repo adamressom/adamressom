@@ -14,15 +14,11 @@ i'm a Computer Science student at the University of Michigan, interested in soft
 
 i previously worked on software and ai projects at **SEO Tech**, **OmicsCraft** (ai startup), and **Georgetown** (ra).
 
-<br>
-
 🔭 current builds:
 
 [personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.
 <br>
 **random pull requests** - small fixes across open-source repos.
-
-<br>
 
 🧠 i’m currently learning:
 
@@ -31,7 +27,6 @@ cloud deployment <br>
 system design <br>
 AI agents <br>
 
-<br>
 
 ⚡ just shipped:
 
@@ -45,7 +40,6 @@ AI agents <br>
 `languages // tools`
 > `c++` &nbsp;&bull;&nbsp; `typescript` &nbsp;&bull;&nbsp; `javascript` &nbsp;&bull;&nbsp; `python` &nbsp;&bull;&nbsp; `react` &nbsp;&bull;&nbsp; `docker` &nbsp;&bull;&nbsp; `gcp` &nbsp;&bull;&nbsp; `git`
 
-<br>
 
 *bits about me:*
 
