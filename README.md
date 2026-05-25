@@ -2,9 +2,7 @@
 
 ## 𓏲 ࣪˖♡𓂃 🧑🏾‍💻
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=adamressom&label=profile%20views&color=0e75b6&style=flat)
-
 
 </div>
 
@@ -16,45 +14,32 @@ i previously worked on software and ai projects at **SEO Tech**, **OmicsCraft** 
 
 🔭 current builds:
 
-[personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.
-<br>
+[personal site](https://github.com/adamressom/personal-website) - updating to showcase my projects, notes, and things I’m learning.  
 **random pull requests** - small fixes across open-source repos.
 
 🧠 i’m currently learning:
 
-CPU/GPU architecture <br>
-cloud deployment <br>
-system design <br>
-AI agents <br>
-
+**systems architecture** - cpu/gpu architecture and system design.  
+**cloud & automation** - cloud deployment and autonomous ai agents.
 
 ⚡ just shipped:
 
-[________Properties](https://github.com/adamressom/________Properties) - real estate starter template with listings, auth, and admin lead management.
-<br>
+[________Properties](https://github.com/adamressom/________Properties) - real estate starter template with listings, auth, and admin lead management.  
 [GmailAI](https://github.com/adamressom/GmailAI/tree/main) - AI inbox organizer for email summaries, urgency scoring, and priority labels.
-
-<br>
-<br>
 
 `languages // tools`
 > `c++` &nbsp;&bull;&nbsp; `typescript` &nbsp;&bull;&nbsp; `javascript` &nbsp;&bull;&nbsp; `python` &nbsp;&bull;&nbsp; `react` &nbsp;&bull;&nbsp; `docker` &nbsp;&bull;&nbsp; `gcp` &nbsp;&bull;&nbsp; `git`
 
-
 *bits about me:*
 
-🧠 i’m trying to explain technical ideas more simply.
-<br>
-🚶 i take walks when I need to clear my head
-<br>
+🧠 i’m trying to explain technical ideas more simply.  
+🚶 i take walks when I need to clear my head.  
 🔄 constantly iterating. enjoying the process.
 
 <br>
 
 <div align="center">
-
 <pre>
 ҂ ─ ⌘ ─ ⎇ ─ ⌁ ─ ⏚ ─ ⌬ ─ ⎊ ─ ⌖ ─ ⎔ ─ ⏣ ─ ⎔ ─ ⌖ ─ ⎊ ─ ⌬ ─ ⏚ ─ ⌁ ─ ⎇ ─ ⌘ ─ ҂
 </pre>
-
 </div>
